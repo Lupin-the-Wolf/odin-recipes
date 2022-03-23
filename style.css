@@ -1,0 +1,32 @@
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: aqua;
+    height: 150px;
+    width: 200px;
+}
+
+a {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: sans-serif;
+    color: goldenrod;
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: goldenrod;
+    text-align: center;
+}
